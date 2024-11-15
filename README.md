@@ -61,8 +61,7 @@ By integrating modern technologies like Wi-Fi connectivity and a web server inte
 
 ## Credits
 
-Special thanks to **Quibueno** for contributions and guidance.  
-GitHub Profile: [Quibueno](https://github.com/Quibueno)
+Special thanks to **Quibueno** for contributions .  
 
 ---
 
