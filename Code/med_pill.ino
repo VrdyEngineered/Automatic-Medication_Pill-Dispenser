@@ -19,8 +19,8 @@
 #define BUZZER_PIN 32
 
 // Define your bot token and chat ID here
-#define BOT_TOKEN "7550758132:AAGTpD3Ro2evQiKf5Vr37ify3VYGCCD7WeM"
-#define CHAT_ID "1579698221"  // Replace with your chat ID
+#define BOT_TOKEN "Add your Bot token"
+#define CHAT_ID ""  // Replace with your chat ID
 
 
 // ChatGPT API details
