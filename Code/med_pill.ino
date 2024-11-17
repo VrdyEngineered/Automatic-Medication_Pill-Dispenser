@@ -153,8 +153,8 @@ bool isHandDetected() {
 
 // Wi-Fi setup with manual password and SSID
 void setupWiFi() {
-    const char* ssid = "LAPTOP-M67UPJHG 1811";  // Replace with your Wi-Fi SSID
-    const char* password = "satyam12";  // Replace with your Wi-Fi password
+    const char* ssid = "";  // Replace with your Wi-Fi SSID
+    const char* password = "";  // Replace with your Wi-Fi password
 
     Serial.print("Connecting to ");
     Serial.println(ssid);
